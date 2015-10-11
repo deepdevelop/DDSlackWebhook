@@ -6,6 +6,7 @@ DDSlackWebhook is a simple client post notification to your slack channel use sl
 
 #### CocoaPods
 
+	pod 'DDSlackWebhook'
 	
 #### Source File
 You can copy all the files under the `DDSlackWebhook` folder into your project.
